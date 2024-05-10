@@ -1,0 +1,3 @@
+Blah
+Blah
+Blahmybooks...mybooks...[#<Book:0x000002c0863f0c48 @title="Book1", @author="Ahmed", @ISBN="32132131", @id=0>, #<Book:0x000002c0863f0bf8 @title="Book2", @author="Ahmed", @ISBN="6546843465", @id=1>][#<Book:0x000001ee5bdea738 @title="Book1", @author="Ahmed", @ISBN="32132131", @id=0>, #<Book:0x000001ee5bdea6e8 @title="Book2", @author="Ahmed", @ISBN="6546843465", @id=1>]
