@@ -14,14 +14,13 @@
       <div><%= message %></div>
     <% end %>
   </div>
-  <p>
-  <%= form.label :status %><br>
-  <%= form.select :status, Visible::VALID_STATUSES, selected: 'public' %>
-</p>
-  <div>
+  
+<div>
   <%= form.label :status %><br>
   <%= form.select :status, Visible::VALID_STATUSES, selected: article.status || 'public' %>
 </div>
+
+  
 
 
   <div>
